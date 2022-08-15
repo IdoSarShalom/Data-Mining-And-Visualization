@@ -9,3 +9,4 @@ then, we trained a model on the training data and classified the test data.
 
 the reports are in hebrew, where we wrote all our insights and conclusions.
 code is also added in ipynb format.
+ 
